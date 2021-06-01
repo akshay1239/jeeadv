@@ -1,0 +1,42 @@
+body {
+  background-color: #00ead3;
+  background-image: url('bde.jpg');
+  text-align: left;
+  font-size: 130%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  background-color: #fff5ab;
+  border-color: black;
+  background-image: url('bde.jpg');
+  border-width: 1px;
+  height:18px;
+  width: 210px;
+   
+}
+
+input[type=radio] {
+  background-color: #fff5ab;
+  border-color: #00ead3;
+  width: 15px;
+}
+
+input[type=submit]{
+  width: 100px;
+  height: 30px;
+}
+input[type=checkbox]{
+  width: 15px;
+}
+
+textarea {
+  background-color: black;
+  border-width: 1px;
+  background-image: url('bde.jpg');
+  font-size: 20px;
+}
